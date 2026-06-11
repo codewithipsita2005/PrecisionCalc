@@ -29,7 +29,7 @@
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="assets/preview.png.png" width="450">
+  <img src="preview.png" width="450">
 </p>
 
 ---
