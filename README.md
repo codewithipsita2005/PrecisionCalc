@@ -120,13 +120,15 @@ Feel free to:
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Let's Connect
 
-🔗 GitHub: https://github.com/your-username
+🔗 LinkedIn: https://www.linkedin.com/in/ipsita-ghosh-11966b307
 
-🔗 LinkedIn: Add Your LinkedIn Profile Link
+💻 GitHub: https://github.com/codewithipsita2005
 
-📧 Email: your-email@example.com
+📩 Email: ipsitaghosh2005@gmail.com
+
+🚀 Open to learning, collaboration, internships, and exciting tech opportunities!
 
 ---
 
