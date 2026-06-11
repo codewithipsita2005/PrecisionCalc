@@ -76,7 +76,7 @@ Whether you're performing quick calculations or exploring front-end development 
 PrecisionCalc
 │
 ├── assets
-│   └── precisioncalc_preview_cropped.png
+│   └── preview.png
 │
 ├── index.html
 ├── style.css
