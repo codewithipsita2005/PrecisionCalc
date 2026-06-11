@@ -10,6 +10,30 @@
 
 ---
 
+## 🌐 Live Demo
+
+🚀 Experience PrecisionCalc online:
+
+🔗 https://codewithipsita2005.github.io/PrecisionCalc/
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live-success?style=for-the-badge)
+
+---
+
+## 📸 Project Preview
+
+<p align="center">
+  <img src="assets/preview.png.png" width="450">
+</p>
+
+---
+
 ## 📖 About The Project
 
 PrecisionCalc is a sleek and interactive web-based calculator designed to perform everyday arithmetic operations with speed and accuracy. Built using core front-end technologies, this project demonstrates responsive design, JavaScript functionality, and clean user interface development.
@@ -32,7 +56,7 @@ Whether you're performing quick calculations or exploring front-end development 
 
 ✅ Error Handling
 
-✅ Lightweight & Fast Performance
+✅ Fast Performance
 
 ---
 
@@ -49,7 +73,10 @@ Whether you're performing quick calculations or exploring front-end development 
 ## 📂 Project Structure
 
 ```bash
-PrecisionCalc/
+PrecisionCalc
+│
+├── assets
+│   └── precisioncalc_preview_cropped.png
 │
 ├── index.html
 ├── style.css
